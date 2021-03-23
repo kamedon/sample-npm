@@ -1,0 +1,13 @@
+node_modules
+build
+coverage
+dist
+tsconfig.tsbuildinfo
+*.log
+*.zip
+server/public/*.*
+cdk.out/
+.history/
+.idea/
+.vscode/launch.json
+
